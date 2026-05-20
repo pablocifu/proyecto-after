@@ -74,6 +74,7 @@ Organizar correctamente un pipeline audiovisual.
 Implementar controladores y parenting.
 Gestionar versiones del proyecto.
 Generar renders finales y pruebas intermedias.
+
 Flujo de Trabajo
 Creación de bocetos.
 Vectorización del personaje.
