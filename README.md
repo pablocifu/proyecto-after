@@ -64,10 +64,12 @@ fondo.png
 mesa.png
 rig.png
 silla.png
+
 Software Utilizado
 Adobe After Effects
 Adobe Illustrator
 Krita
+
 Objetivos del Proyecto
 Crear un rig funcional para animación 2D.
 Organizar correctamente un pipeline audiovisual.
